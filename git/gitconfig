@@ -1,6 +1,6 @@
 [user]
-	email = ckyony@changamuka.com
-	name = Christian Kyony
+	email = jkyony@gmail.com
+	name = john Kyony
 [alias]
 	co = checkout
 	ctags = !.git/hooks/ctags
